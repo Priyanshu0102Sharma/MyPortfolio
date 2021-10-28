@@ -127,6 +127,7 @@ table th{
         #name{
             position: relative;
             top: -40px;
+            font-size: unset;
             
         
         }
